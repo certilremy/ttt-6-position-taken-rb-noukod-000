@@ -6,6 +6,6 @@ if board[index] == " " || ""
 
 elsif board[index] == "X" || "O"
   return true
-  
+
 end
 end
